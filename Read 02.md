@@ -20,10 +20,11 @@ Git is software for tracking changes in any set of files, usually used for coord
 ** Deletes branch **
 5. git branch -d <branch-name>
 
+** another example **
 6. Git clone
+
 Git clone is a command for downloading existing source code from a remote repository (like Github, for example). In other words, Git clone basically makes an identical copy of the latest version of a project in a repository and saves it to your computer.
 
 There are a couple of ways to download the source code, but mostly I prefer the clone with https way:
 
 git clone <https://name-of-the-repository-link>
-For example, if we want to download a project from Github, all we need to do is click on the green button (clone or download), copy the URL in the box and paste it after the git clone command that I've shown right above.
