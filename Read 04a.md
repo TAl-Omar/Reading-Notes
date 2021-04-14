@@ -49,4 +49,4 @@ You should write comments to explain what your code does. They help make your co
 
 
 -----------------------
-If your intrested to read more, please click on the following link [JAVASCRIPT & JQUERY - Jon Duckett](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647)
+If you are intrested to read more, please click on the following link [JAVASCRIPT & JQUERY - Jon Duckett](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647)
