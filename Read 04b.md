@@ -3,12 +3,13 @@
 ---
 
 [Introducing How Computers Work](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-&index=1)
+
 Computer are changing the world! 
 Whether thet are on our desktops, homes, our pockets, or offices, or anywhere else. While most of us use this technology everyday and everywhere, Have you ever wondered how does this all work? Keep on reading to know.
 
 ----
 
-### [What makes a computer a computer?] (https://www.youtube.com/watch?v=mCq8-xTH7jA&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-&index=2)
+[What makes a computer a computer?] (https://www.youtube.com/watch?v=mCq8-xTH7jA&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-&index=2)
 
 As the pioneers of computer science explored how to design a thinking machine, they realised that it had to perform four different tasks, and they are common to all computers
 - Take input
