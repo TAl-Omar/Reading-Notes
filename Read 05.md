@@ -91,7 +91,7 @@ When the loop has finished, the interpreter goes to the next line of code, which
 
 ---
 
-To check out more of this book [CLICK HERE!](file:///C:/Users/taima/Downloads/Javascript_and_jquery_interactive_jon_du.pdf)
+To check out more of this book [CLICK HERE!](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647)
 
 
 
