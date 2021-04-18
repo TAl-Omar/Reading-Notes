@@ -9,6 +9,4 @@
 | Read 04b       | [How Computers Work](https://tal-omar.github.io/Reading-Notes/Read%2004b)|
 | Read 05        |[Decisions and Loops](https://tal-omar.github.io/Reading-Notes/Read%2005) |
 | Read 06        |[How javascript makes webpages more interactive](https://tal-omar.github.io/Reading-Notes/Read%2006)                     |
-| Read 07        |                       |
-|                |                       |
-|                  |                       |
+| Read 07        |[Colors](https://tal-omar.github.io/Reading-Notes/Read%2007)                       |
