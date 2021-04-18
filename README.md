@@ -7,12 +7,8 @@
 | Read 03 |[HTML and CSS summary](https://tal-omar.github.io/Reading-Notes/Read%2003) |
 | Read 04a       | [Javascript and jquery](https://tal-omar.github.io/Reading-Notes/Read%2004a)|
 | Read 04b       | [How Computers Work](https://tal-omar.github.io/Reading-Notes/Read%2004b)|
-<<<<<<< HEAD
 | Read 05        |[Decisions and Loops](https://tal-omar.github.io/Reading-Notes/Read%2005) |
 | Read 06        |[How javascript makes webpages more interactive]()                     |
 | Read 07        |                       |
 |                |                       |
-=======
-|      Read 05    |[Decisions and Loops](https://tal-omar.github.io/Reading-Notes/Read%2005) |
 |                  |                       |
->>>>>>> 0d97468b00ee8a0e8c11b0e2a14457f70ce0df9d
