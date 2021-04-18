@@ -1,0 +1,45 @@
+# Chapter 11
+### Color
+
+---
+---
+
+### Foreground Color
+The color property allows you to specify the color of text inside an element. You can specify any color in CSS in one of three ways:
+##### RGB VALUES
+These express colors in terms
+of how much red, green and
+blue are used to make it up. For
+example: rgb(100,100,90).
+
+##### HEX CODES
+These are six-digit codes that
+represent the amount of red,
+green and blue in a color,
+preceded by a pound or hash #
+sign. For example: #ee3e80.
+
+##### COLOR NAMES
+There are 147 predefined color
+names that are recognized
+by browsers. For example:
+DarkCyan.
+
+---
+
+##### Understanding Color
+Every color on a computer screen is created by mixing amounts of red, green, and blue. To find the color you want, you can use a color picker.
+
+##### Contrast
+When picking foreground and background colors, it is important to ensure that there is enough contrast for the text to be legible.
+
+
+
+---
+---
+---
+
+
+
+
+
